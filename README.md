@@ -11,7 +11,7 @@
 
 ## 🚀 About me
 
-I'm a **Frontend & Mobile Engineer** from Nigeria with 4+ years of turning product ideas into fast, polished apps with **React Native, TypeScript and Next.js**.
+I'm a **Frontend & Mobile Engineer** from Nigeria with 5+ years of turning product ideas into fast, polished apps with **React Native, TypeScript and Next.js**.
 
 Most of my work lives where money moves. At **DigitPay Finance** I built the mobile app from an empty repo to live on both app stores, then took it through an Expo SDK 53 → 55 upgrade across 50+ screens without a single breaking change. Along the way I've shipped real-time WebSocket updates, push notifications, Face ID and fingerprint login, escrow payments, and Web3 wallet integrations on Stellar and EVM chains.
 
@@ -60,13 +60,13 @@ I like startup pace, but I don't cut corners: clean architecture, reusable compo
 
 ## 💼 Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Mobile Engineer | DigitPay Finance (Remote) | 12/2024 – Present |
-| Lead Mobile Engineer | HrPay (Freelance) | 07/2025 – 03/2026 |
-| Lead Frontend Engineer | Paidby (Part-time) | 07/2024 – 03/2025 |
-| Frontend Engineer | Hackpiy Software Solutions (Remote) | 09/2023 – 06/2024 |
-| Intern | POTTO | 07/2023 – 09/2023 |
+| Role                   | Company                             | Period            |
+| ---------------------- | ----------------------------------- | ----------------- |
+| Mobile Engineer        | DigitPay Finance (Remote)           | 12/2024 – Present |
+| Lead Mobile Engineer   | HrPay (Freelance)                   | 07/2025 – 03/2026 |
+| Lead Frontend Engineer | Paidby (Part-time)                  | 07/2024 – 03/2025 |
+| Frontend Engineer      | Hackpiy Software Solutions (Remote) | 09/2023 – 06/2024 |
+| Intern                 | POTTO                               | 07/2023 – 09/2023 |
 
 **Highlights**
 
